@@ -62,6 +62,7 @@ I'm interested in the engineering behind personal AI systems: connecting models 
 ## 🔗 Explore My Work
 
 - 👤 **Developer:** [Alex sefer / Alex77p](https://github.com/Alex77p)
+- 📸 **Instagram:** [@v_ayush.000_exe](https://www.instagram.com/v_ayush.000_exe/)
 - 🤖 **Axtor:** [github.com/Alex77p/Axtor](https://github.com/Alex77p/Axtor)
 - 🧠 **MyAI:** [github.com/Alex77p/MyAI](https://github.com/Alex77p/MyAI)
 
