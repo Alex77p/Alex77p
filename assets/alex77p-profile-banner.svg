@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#02080b"/><stop offset=".55" stop-color="#062329"/><stop offset="1" stop-color="#001014"/></linearGradient>
+ <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#00ffd0"/><stop offset="1" stop-color="#36a6ff"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1500" height="500" fill="url(#bg)"/>
+<g opacity=".16" stroke="#00ffd0" fill="none">
+ <circle cx="1200" cy="245" r="190"/><circle cx="1200" cy="245" r="145"/><circle cx="1200" cy="245" r="95"/>
+ <path d="M1030 245h340M1200 75v340M1080 125l240 240M1320 125l-240 240"/>
+</g>
+<g opacity=".18" stroke="#00ffd0"><path d="M0 420L330 90h340M980 500l320-320h200M40 30l170 170"/></g>
+<text x="70" y="95" fill="url(#accent)" font-family="Arial,sans-serif" font-size="64" font-weight="800">ALEX SEFER</text>
+<text x="74" y="135" fill="#00ffd0" font-family="Arial,sans-serif" font-size="25" font-weight="700" letter-spacing="8">( ALEX77P )</text>
+<text x="74" y="185" fill="#e9f4f5" font-family="Arial,sans-serif" font-size="22" letter-spacing="5">ANDROID AI DEVELOPER &amp; INNOVATOR</text>
+<rect x="70" y="215" width="7" height="105" fill="#00ffd0" filter="url(#glow)"/>
+<text x="100" y="255" fill="#fff" font-family="Arial,sans-serif" font-size="34" font-weight="800">BUILDING AI THAT</text>
+<text x="100" y="295" fill="#00ffd0" font-family="Arial,sans-serif" font-size="34" font-weight="800">THINKS, LEARNS &amp; EVOLVES.</text>
+<text x="100" y="350" fill="#c9d7da" font-family="Arial,sans-serif" font-size="19">Creator of Axtor and MyAI • Local AI • GGUF / Llama • Android Automation</text>
+<g font-family="Arial,sans-serif">
+ <rect x="70" y="390" width="390" height="65" rx="12" fill="#06171a" stroke="#00ffd0"/>
+ <text x="95" y="420" fill="#00ffd0" font-size="21" font-weight="700">AXTOR</text><text x="95" y="444" fill="#c9d7da" font-size="14">Android AI Assistant</text>
+ <rect x="480" y="390" width="390" height="65" rx="12" fill="#07151b" stroke="#8b6cff"/>
+ <text x="505" y="420" fill="#a98cff" font-size="21" font-weight="700">MYAI</text><text x="505" y="444" fill="#c9d7da" font-size="14">Self-Evolving AI System</text>
+</g>
+<g opacity=".8" font-family="monospace" font-size="15" fill="#00ffd0">
+ <text x="1030" y="130">// build</text><text x="1030" y="158">// automate</text><text x="1030" y="186">// evolve</text><text x="1030" y="214">// repeat</text>
+</g>
+<text x="1030" y="410" fill="#e9f4f5" font-family="Arial,sans-serif" font-size="23">Code. Automate. <tspan fill="#00ffd0">Evolve.</tspan></text>
+<text x="1030" y="445" fill="#91a8ad" font-family="Arial,sans-serif" font-size="15">github.com/Alex77p</text>
+</svg>
