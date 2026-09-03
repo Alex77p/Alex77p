@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Alex77p/Alex77p/main/assets/alex77p-profile-banner.svg" alt="Alex sefer (Alex77p) — Android AI Developer and Creator of Axtor and MyAI" width="100%">
+  <img src="https://raw.githubusercontent.com/Alex77p/Alex77p/main/file_00000000ea108211b2292354519b21aa.png" alt="Alex sefer (Alex77p) — Android AI Developer and Creator of Axtor and MyAI" width="100%">
 </p>
 
 # Hi, I'm Alex sefer 👋
