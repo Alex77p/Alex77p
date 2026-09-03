@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Alex77p/Alex77p/main/assets/alex77p-profile-banner.svg" alt="Alex sefer (Alex77p) — Android AI Developer and Creator of Axtor and MyAI" width="100%">
+</p>
+
 # Hi, I'm Alex sefer 👋
 
 **Alex77p** · Independent Developer · Creator of **Axtor** and **MyAI**
